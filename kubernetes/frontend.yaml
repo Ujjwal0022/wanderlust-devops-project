@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: thatgeekcontainer/wanderlust-frontend-beta:v5
+          image: ujjwal8123/wanderlust-backend:v1 
           ports:
             - containerPort: 5173
 ---
