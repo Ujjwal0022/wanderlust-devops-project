@@ -135,7 +135,8 @@ Prometheus • Grafana
 ![image](https://github.com/user-attachments/assets/8fd13807-622e-45f7-af23-dcc1ba30ca5d)
 
 - <b>ArgoCD application for deployment on EKS</b>
-![image](https://github.com/user-attachments/assets/1ea9d486-656e-40f1-804d-2651efb54cf6)
+<img width="1600" height="821" alt="ce20b568-bd23-49aa-b61d-627f8261567c" src="https://github.com/user-attachments/assets/783378db-a0a9-45d3-8bac-2f5f1f1dc4b5" />
+
 
 #
 > [!Important]
