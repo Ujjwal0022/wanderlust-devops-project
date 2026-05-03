@@ -81,13 +81,12 @@ Prometheus • Grafana
 ---
 ### DevSecOps Architecture
 
-![DevSecOps Architecture](./Devops-Mega-Project-Jenkins-ArgoCD-EKS/Assets/architectures.png)
-
+![DevSecOps Architecture](./Assets/architectures.png)
 ---
 
 ### 🔄 CI/CD Flow
 
-![CI/CD Flow](./Devops-Mega-Project-Jenkins-ArgoCD-EKS/Assets/flow.png)
+![CI/CD Flow](./Assets/flow.png)
 
 ---
 
