@@ -1,6 +1,9 @@
 # DevOps Mega Project: From Code to Kubernetes - Building a Production-Grade DevSecOps + GitOps Platform
 
-## In this comprehensive demonstration, we will explore the complete deployment of a production-ready three-tier MERN stack application on an AWS EKS (Elastic Kubernetes Service) cluster, showcasing real-world DevOps practices.
+## A complete **production-grade DevSecOps pipeline** implementing CI/CD with security, automation, and Kubernetes deployment using **GitOps principles**.
+
+This project demonstrates how a **3-tier MERN stack application** is deployed on **AWS EKS** using industry-standard tools.
+
 #
 ### <mark>Project Deployment Flow:</mark>
 ![Project Flow](./Assets/DevSecOps+GitOps.gif)
